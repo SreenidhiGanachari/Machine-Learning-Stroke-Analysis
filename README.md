@@ -2,25 +2,14 @@ Stroke is a medical  disorder in which blood arteries in brain are ruptured  cau
 The 12 attributes used in prediction are :-
 
 id 
-
 work_type
-
 gender   
-
 Residence_type-rural, urban
-
 age  
-
 avg_glucose_level
-
 hypertension    
-
 BMI
-
 heart_disease   
-
 smoking_status
-
 ever _  married      
-
 stroke _  1 or 0
